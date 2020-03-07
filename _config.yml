@@ -1,15 +1,3 @@
-# Site settings
-subtitle: A barebone GitHub Pages with static comments
-email: your-email@domain.com
-description: Test
-baseurl: ""
-url: "https://vincenttam.github.io/TestStaticmanLab/"
-locale: en
-github_username:  VincentTam
-
-# Build settings
-markdown: kramdown
-
 staticman:
   api: "https://anasbasem.herokuapp.com/v2/entry/basemwahba/anas/master/comments"
   path: "_data/comments"
