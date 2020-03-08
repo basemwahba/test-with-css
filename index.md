@@ -1,7 +1,7 @@
 ---
 layout: default
 slug: now-with-comments
-title-heading: false
+title: null
 ---
 <link rel="stylesheet" href="assets/main.css"  type="text/css"/>
 
